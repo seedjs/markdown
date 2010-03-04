@@ -2,4 +2,4 @@
 
 var seed = require('seed');
 seed.register(__dirname, '..'); // add local package as target
-seed.require("markdown").main(seed.require('markdown:narwhal/system'));
+seed.require("markdown").main(seed.require('narwhal-shim:system'));
