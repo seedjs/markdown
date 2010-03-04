@@ -10,5 +10,7 @@
     ],    
     "dependencies": [],
     "lib": "lib",
+
+    "version": "0.9.1000"
 }
 
