@@ -9,7 +9,7 @@
     	"Kris Kowal"
     ],    
 
-    "dependencies": { "nawhal-shim": "1.0" },
+    "dependencies": { "narwhal-shim": "1.0" },
     "version": "0.9.0",
     
     "lib": "lib"
